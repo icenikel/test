@@ -1,3 +1,2 @@
 Hello, developer!
 How are you?
-Change from dev branch
